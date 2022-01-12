@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nama_mhs": "Liem Christopher Jaya Mulyawan",
+        "nim_mhs": "21120119130073",
+        "fakultas_mhs": "Teknik",
+        "jurusan_mhs": "S1 Teknik Komputer",
+        "status_mhs": "AKTIF",
+        "IPK": "3.79",
+        "Mata_Kuliah": "Sistem Basis Data",
+        "Semester": "Semester 5",
+        "Kelas": "A",
+        "SKS": "2 SKS",
+        "Nilai": "A"
+    }
+]
